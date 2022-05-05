@@ -7,7 +7,7 @@
   | 🔑    | ❌    | ❌    |
   | 📤    | ❌    | ✔    |
 ----
-  - [x] 可上传路径
+- [x] 可上传路径
   - [x] [OneDrive共享](https://wpan.jdv.workers.dev/OneDrive共享/)
   - [x] [alist](https://wpan.jdv.workers.dev/aliyun/Upload/)
 
